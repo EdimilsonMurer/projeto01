@@ -18,8 +18,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="Projeto 01" src=".github/tela.jpg" width="100%">
-</p>
+  <img alt="Projeto 01" src=".github/tela.jpg " width="100%">
+ </p>
 
 ## 🚀 Tecnologias
 
